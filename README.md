@@ -1,4 +1,4 @@
-# Proyecto de Búsqueda de Palabras Clave en Archivos HTML
+# Proyecto de búsqueda de palabras clave en archivos HTML
 
 Este proyecto implementa un programa en Java que busca una palabra clave en un archivo HTML y registra las posiciones donde aparece. También genera un archivo de bitácora que almacena estas posiciones.
 
